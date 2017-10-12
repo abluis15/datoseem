@@ -1,0 +1,4397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Acompañamiento Externo - UGEL05</name>
+    <description/>
+    <Style id="icon-1899-006064-labelson">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-097138-labelson">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-labelson">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-424242-labelson">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-labelson">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-795548-labelson">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-labelson">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-labelson">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-labelson">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-A52714-labelson">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-labelson">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-labelson">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-labelson">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="poly-006064-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff646000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d646000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-006064-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff646000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d646000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-006064-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-006064-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-006064-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0097A7-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffa79700</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4da79700</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-0097A7-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffa79700</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4da79700</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-0097A7-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0097A7-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0097A7-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0288D1-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-0288D1-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-0288D1-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0288D1-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0288D1-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0F9D58-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-0F9D58-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-0F9D58-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0F9D58-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0F9D58-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-558B2F-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-558B2F-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-558B2F-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-558B2F-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-558B2F-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-757575-1601-51-nodesc-normal">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>1.601</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>33757575</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-757575-1601-51-nodesc-highlight">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>2.4015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>33757575</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-757575-1601-51-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-757575-1601-51-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-757575-1601-51-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-817717-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d177781</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-817717-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d177781</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-817717-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-817717-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-817717-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-AFB42B-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff2bb4af</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2bb4af</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-AFB42B-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff2bb4af</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2bb4af</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-AFB42B-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-AFB42B-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-AFB42B-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-CE93D8-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffd893ce</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd893ce</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-CE93D8-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffd893ce</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd893ce</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-CE93D8-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-E65100-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d0051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-E65100-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d0051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-E65100-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-E65100-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-E65100-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F48FB1-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffb18ff4</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db18ff4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-F48FB1-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffb18ff4</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db18ff4</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-F48FB1-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F48FB1-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F48FB1-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F57C00-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-F57C00-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-F57C00-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F57C00-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F57C00-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F9A825-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d25a8f9</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-F9A825-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d25a8f9</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-F9A825-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F9A825-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F9A825-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FBC02D-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2dc0fb</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-FBC02D-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2dc0fb</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-FBC02D-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FBC02D-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FBC02D-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>IIEE</name>
+      <Placemark>
+        <name>ANTENOR ORREGO ESPINOZA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0496521<br>CÓDIGO DE LOCAL: 325259<br>N° DE RED: 1<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.02482<br>LONGITUD: -76.9974]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0496521</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325259.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>1.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.02482</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.9974</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.9974,-12.02482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>122 ANDRES AVELINO CACERES</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0528380<br>CÓDIGO DE LOCAL: 324561<br>N° DE RED: 1<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.01538<br>LONGITUD: -76.9852]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0528380</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324561.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>1.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.01538</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.9852</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.9852,-12.01538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0149 JORGE CIEZA LACHOS</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0664284<br>CÓDIGO DE LOCAL: 324014<br>N° DE RED: 1<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.00852<br>LONGITUD: -76.98364]]></description>
+        <styleUrl>#icon-1899-C2185B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0664284</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324014.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>1.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.00852</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.98364</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.98364,-12.00852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0090 DANIEL ALCIDES CARRION</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0335166<br>CÓDIGO DE LOCAL: 324486<br>N° DE RED: 2<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.02449<br>LONGITUD: -76.97901]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0335166</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324486.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>2.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.02449</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.97901</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.97901,-12.02449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0160 SOLIDARIDAD I</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0665430<br>CÓDIGO DE LOCAL: 324858<br>N° DE RED: 2<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.01124<br>LONGITUD: -76.96067]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0665430</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324858.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>2.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.01124</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.96067</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.96067,-12.01124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0043 SAN CRISTOBAL</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0334987<br>CÓDIGO DE LOCAL: 324405<br>N° DE RED: 3<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.03152<br>LONGITUD: -77.01524]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0334987</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324405.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>3.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.03152</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.01524</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.01524,-12.03152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0071 NUESTRA SEÑORA DE LA MERCED</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0335083<br>CÓDIGO DE LOCAL: 324981<br>N° DE RED: 3<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.01763<br>LONGITUD: -77.01364]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0335083</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324981.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>3.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.01763</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.01364</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.01364,-12.01763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0076 MARIA AUXILIADORA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0335109<br>CÓDIGO DE LOCAL: 324434<br>N° DE RED: 3<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.00923<br>LONGITUD: -77.01744]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0335109</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324434.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>3.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.00923</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.01744</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.01744,-12.00923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1173 JULIO CESAR TELLO</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0339523<br>CÓDIGO DE LOCAL: 325184<br>N° DE RED: 3<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.018<br>LONGITUD: -77.00373]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0339523</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325184.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>3.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.018</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00373</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00373,-12.018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1178 JAVIER HERAUD</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0339622<br>CÓDIGO DE LOCAL: 325198<br>N° DE RED: 3<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.02764<br>LONGITUD: -77.01384]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0339622</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325198.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>3.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.02764</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.01384</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.01384,-12.02764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1181 ALBERT EINSTEIN</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0339697<br>CÓDIGO DE LOCAL: 325221<br>N° DE RED: 3<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.00536<br>LONGITUD: -77.014]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0339697</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325221.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>3.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.00536</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.014</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.014,-12.00536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0113 DANIEL ALOMIAS ROBLES</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0510800<br>CÓDIGO DE LOCAL: 325438<br>N° DE RED: 3<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.00952<br>LONGITUD: -77.00917]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0510800</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325438.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>3.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.00952</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00917</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00917,-12.00952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0130 HEROES DEL CENEPA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0587279<br>CÓDIGO DE LOCAL: 324603<br>N° DE RED: 3<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.0059<br>LONGITUD: -77.00737]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0587279</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324603.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>3.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.0059</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00737</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00737,-12.0059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0134 MARIO FLORIAN</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0607416<br>CÓDIGO DE LOCAL: 324636<br>N° DE RED: 3<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.01095<br>LONGITUD: -77.00628]]></description>
+        <styleUrl>#icon-1899-3949AB-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0607416</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324636.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>3.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.01095</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00628</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00628,-12.01095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0091 SANTA FE</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0335174<br>CÓDIGO DE LOCAL: 325339<br>N° DE RED: 4<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.9969<br>LONGITUD: -76.99678]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0335174</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325339.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>4.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.9969</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99678</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99678,-11.9969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0092 ALFRED NOBEL</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0335182<br>CÓDIGO DE LOCAL: 324491<br>N° DE RED: 4<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.9988<br>LONGITUD: -77.00728]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0335182</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324491.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>4.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.9988</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00728,-11.9988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>110 SAN MARCOS</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0518548<br>CÓDIGO DE LOCAL: 324537<br>N° DE RED: 4<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.01368<br>LONGITUD: -76.99923]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0518548</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324537.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>4.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.01368</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99923</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99923,-12.01368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>126 JAVIER PEREZ DE CUELLAR</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0541110<br>CÓDIGO DE LOCAL: 324580<br>N° DE RED: 4<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.99336<br>LONGITUD: -77.00213]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0541110</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324580.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>4.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.99336</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00213</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00213,-11.99336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>109 INCA MANCO CAPAC</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0556548<br>CÓDIGO DE LOCAL: 324523<br>N° DE RED: 4<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.99875<br>LONGITUD: -76.99966]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0556548</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324523.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>4.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.99875</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99966</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99966,-11.99875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0168 AMISTAD PERU JAPON</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0762658<br>CÓDIGO DE LOCAL: 324924<br>N° DE RED: 4<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.00325<br>LONGITUD: -77.00542]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0762658</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324924.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>4.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.00325</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00542</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00542,-12.00325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0170 SANTA ROSA DEL SAUCE</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0777110<br>CÓDIGO DE LOCAL: 324943<br>N° DE RED: 4<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.00857<br>LONGITUD: -76.9894]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0777110</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324943.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>4.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.00857</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.9894</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.9894,-12.00857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0171-07 COVARRUBIA LAFUENTE</name>
+        <description><![CDATA[CÓDIGO MODULAR: 1070390<br>CÓDIGO DE LOCAL: 325155<br>N° DE RED: 4<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -12.00636<br>LONGITUD: -76.99214]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>1070390</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325155.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>4.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.00636</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99214</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99214,-12.00636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0150 HEROES DE LA BREÑA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0664482<br>CÓDIGO DE LOCAL: 325320<br>N° DE RED: 5<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.98795<br>LONGITUD: -76.99409]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0664482</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325320.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>5.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.98795</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99409</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99409,-11.98795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0154 CARLOS NORIEGA JIMENEZ</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0665372<br>CÓDIGO DE LOCAL: 324797<br>N° DE RED: 5<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.97429<br>LONGITUD: -76.9883]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0665372</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324797.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>5.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.97429</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.9883</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.9883,-11.97429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0156 EL PORVENIR</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0665398<br>CÓDIGO DE LOCAL: 324815<br>N° DE RED: 5<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.97338<br>LONGITUD: -76.98937]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0665398</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324815.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>5.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.97338</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.98937</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.98937,-11.97338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0171-10</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0665406<br>CÓDIGO DE LOCAL: 324820<br>N° DE RED: 5<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.98039<br>LONGITUD: -76.97831]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0665406</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324820.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>5.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.98039</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.97831</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.97831,-11.98039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1182 EL BOSQUE</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0826479<br>CÓDIGO DE LOCAL: 325235<br>N° DE RED: 5<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.98021<br>LONGITUD: -76.99826]]></description>
+        <styleUrl>#icon-1899-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0826479</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325235.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>5.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.98021</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99826</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99826,-11.98021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0139 GRAN AMAUTA MARIATEGUI</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0607465<br>CÓDIGO DE LOCAL: 324684<br>N° DE RED: 6<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.96656<br>LONGITUD: -76.98921]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0607465</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324684.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>6.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.96656</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.98921</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.98921,-11.96656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0141 VIRGEN DE COCHARCAS</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0629295<br>CÓDIGO DE LOCAL: 324698<br>N° DE RED: 6<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.96846<br>LONGITUD: -76.98844]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0629295</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324698.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>6.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.96846</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.98844</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.98844,-11.96846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0158 SANTA MARIA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0665414<br>CÓDIGO DE LOCAL: 324839<br>N° DE RED: 6<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.96602<br>LONGITUD: -76.97705]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0665414</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324839.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>6.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.96602</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.97705</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.97705,-11.96602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0164 EL AMAUTA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0703132<br>CÓDIGO DE LOCAL: 324896<br>N° DE RED: 6<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.96425<br>LONGITUD: -76.98743]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0703132</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324896.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>6.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.96425</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.98743</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.98743,-11.96425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0171-03</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0777268<br>CÓDIGO DE LOCAL: 324288<br>N° DE RED: 6<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.97221<br>LONGITUD: -76.98478]]></description>
+        <styleUrl>#icon-1899-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0777268</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324288.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>6.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.97221</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.98478</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.98478,-11.97221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0151 MICAELA BASTIDAS</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0664490<br>CÓDIGO DE LOCAL: 324764<br>N° DE RED: 7<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.93999<br>LONGITUD: -76.97648]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0664490</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324764.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>7.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.93999</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.97648</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.97648,-11.93999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0162 SAN JOSE OBRERO</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0697557<br>CÓDIGO DE LOCAL: 324877<br>N° DE RED: 7<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.94764<br>LONGITUD: -76.9757]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0697557</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324877.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>7.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.94764</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.9757</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.9757,-11.94764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ANTONIA MORENO DE CACERES</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0762468<br>CÓDIGO DE LOCAL: 325396<br>N° DE RED: 7<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.94893<br>LONGITUD: -76.97999]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0762468</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325396.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>7.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.94893</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.97999</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.97999,-11.94893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>166 KAROL WOJTYLA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0846014<br>CÓDIGO DE LOCAL: 324900<br>N° DE RED: 7<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.95498<br>LONGITUD: -76.98109]]></description>
+        <styleUrl>#icon-1899-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0846014</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324900.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>7.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.95498</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.98109</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.98109,-11.95498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0146 SU SANTIDAD JUAN PABLO II</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0632356<br>CÓDIGO DE LOCAL: 325400<br>N° DE RED: 8<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.94396<br>LONGITUD: -76.99146]]></description>
+        <styleUrl>#icon-1899-424242-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0632356</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325400.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>8.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.94396</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99146</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99146,-11.94396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0152 JOSE CARLOS MARIATEGUI</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0664508<br>CÓDIGO DE LOCAL: 324778<br>N° DE RED: 8<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.94065<br>LONGITUD: -76.985]]></description>
+        <styleUrl>#icon-1899-424242-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0664508</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324778.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>8.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.94065</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.985</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.985,-11.94065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0159 10 DE OCTUBRE</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0665422<br>CÓDIGO DE LOCAL: 324844<br>N° DE RED: 8<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.9474<br>LONGITUD: -76.99004]]></description>
+        <styleUrl>#icon-1899-424242-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0665422</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324844.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>8.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.9474</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99004</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99004,-11.9474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FE Y ALEGRIA 37</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0762500<br>CÓDIGO DE LOCAL: 326843<br>N° DE RED: 8<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.93701<br>LONGITUD: -76.97254]]></description>
+        <styleUrl>#icon-1899-424242-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0762500</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>326843.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>8.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.93701</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.97254</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.97254,-11.93701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0171-01 JUAN VELASCO ALVARADO</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0777201<br>CÓDIGO DE LOCAL: 324962<br>N° DE RED: 8<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.9351<br>LONGITUD: -76.98799]]></description>
+        <styleUrl>#icon-1899-424242-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0777201</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324962.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>8.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.9351</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.98799</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.98799,-11.9351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1183 SAUL CANTORAL HUAMANI</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0902049<br>CÓDIGO DE LOCAL: 325240<br>N° DE RED: 8<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.9391<br>LONGITUD: -77.00205]]></description>
+        <styleUrl>#icon-1899-424242-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0902049</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325240.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>8.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.9391</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00205</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00205,-11.9391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 DE MARZO</name>
+        <description><![CDATA[CÓDIGO MODULAR: 1500982<br>CÓDIGO DE LOCAL: 713848<br>N° DE RED: 8<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.93228<br>LONGITUD: -76.97823]]></description>
+        <styleUrl>#icon-1899-424242-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>1500982</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>713848.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>8.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.93228</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.97823</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.97823,-11.93228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0069 MACHU PICCHU</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0335067<br>CÓDIGO DE LOCAL: 324759<br>N° DE RED: 9<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.97143<br>LONGITUD: -77.00932]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0335067</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324759.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>9.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.97143</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00932</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00932,-11.97143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>116 ABRAHAM VALDELOMAR</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0510305<br>CÓDIGO DE LOCAL: 324542<br>N° DE RED: 9<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.95843<br>LONGITUD: -77.00013]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0510305</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324542.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>9.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.95843</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00013</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00013,-11.95843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>125 RICARDO PALMA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0541011<br>CÓDIGO DE LOCAL: 324575<br>N° DE RED: 9<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.9584<br>LONGITUD: -77.00505]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0541011</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324575.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>9.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.9584</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00505</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00505,-11.9584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FRANCISCO BOLOGNESI CERVANTES</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0556241<br>CÓDIGO DE LOCAL: 325264<br>N° DE RED: 9<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.9651<br>LONGITUD: -77.00436]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0556241</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325264.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>9.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.9651</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00436</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00436,-11.9651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>131 MONITOR HUASCAR</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0590133<br>CÓDIGO DE LOCAL: 324617<br>N° DE RED: 9<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.96496<br>LONGITUD: -77.01058]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0590133</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324617.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>9.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.96496</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.01058</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.01058,-11.96496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>145 INDEPENDENCIA AMERICANA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0632323<br>CÓDIGO DE LOCAL: 324721<br>N° DE RED: 9<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.95079<br>LONGITUD: -77.00391]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0632323</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324721.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>9.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.95079</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00391</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00391,-11.95079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0171-02 LAS TERRAZAS</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0777235<br>CÓDIGO DE LOCAL: 324976<br>N° DE RED: 9<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.97313<br>LONGITUD: -77.01367]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0777235</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324976.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>9.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.97313</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.01367</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.01367,-11.97313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>117 SIGNOS DE FE</name>
+        <description><![CDATA[CÓDIGO MODULAR: 1258649<br>CÓDIGO DE LOCAL: 325508<br>N° DE RED: 9<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.9517<br>LONGITUD: -77.006]]></description>
+        <styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>1258649</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325508.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>9.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.9517</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.006,-11.9517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0120 MANUEL ROBLES ALARCON</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0509901<br>CÓDIGO DE LOCAL: 325424<br>N° DE RED: 10<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.95306<br>LONGITUD: -76.99228]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0509901</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>325424.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>10.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.95306</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99228</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99228,-11.95306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FE Y ALEGRIA 26</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0541219<br>CÓDIGO DE LOCAL: 326824<br>N° DE RED: 10<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.95877<br>LONGITUD: -76.99457]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0541219</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>326824.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>10.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.95877</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99457</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99457,-11.95877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0142 MARTIR DANIEL ALCIDES CARRION</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0629261<br>CÓDIGO DE LOCAL: 324702<br>N° DE RED: 10<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.95744<br>LONGITUD: -76.98961]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0629261</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324702.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>10.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.95744</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.98961</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.98961,-11.95744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0171 BUENOS AIRES</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0777144<br>CÓDIGO DE LOCAL: 324957<br>N° DE RED: 10<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.96441<br>LONGITUD: -76.99267]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0777144</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324957.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>10.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.96441</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99267</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99267,-11.96441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0153 ALEJANDRO SANCHEZ ARTEAGA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0826321<br>CÓDIGO DE LOCAL: 324783<br>N° DE RED: 10<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.96231<br>LONGITUD: -76.99322]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0826321</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324783.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>10.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.96231</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99322</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99322,-11.96231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0087 JOSE MARIA ARGUEDAS</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0335133<br>CÓDIGO DE LOCAL: 324453<br>N° DE RED: 11<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.99519<br>LONGITUD: -77.01636]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0335133</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324453.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>11.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.99519</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.01636</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.01636,-11.99519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>100</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0518647<br>CÓDIGO DE LOCAL: 324504<br>N° DE RED: 11<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.98801<br>LONGITUD: -77.0143]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0518647</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324504.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>11.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.98801</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.0143</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.0143,-11.98801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0137 MIGUEL GRAU SEMINARIO</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0607440<br>CÓDIGO DE LOCAL: 324660<br>N° DE RED: 11<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.98397<br>LONGITUD: -77.01347]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0607440</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324660.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>11.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.98397</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.01347</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.01347,-11.98397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0147 LUIS ALBERTO GARCIA ROJAS</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0647784<br>CÓDIGO DE LOCAL: 324735<br>N° DE RED: 11<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.99997<br>LONGITUD: -77.0125]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0647784</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324735.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>11.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.99997</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.0125</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.0125,-11.99997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0161 MOISES COLONIA TRINIDAD</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0665448<br>CÓDIGO DE LOCAL: 324863<br>N° DE RED: 11<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.98882<br>LONGITUD: -77.01726]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0665448</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324863.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>11.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.98882</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.01726</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.01726,-11.98882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0155 JOSE ANTONIO ENCINAS FRANCO</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0826834<br>CÓDIGO DE LOCAL: 324801<br>N° DE RED: 11<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.99332<br>LONGITUD: -77.01188]]></description>
+        <styleUrl>#icon-1899-673AB7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0826834</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324801.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>11.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.99332</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.01188</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.01188,-11.99332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0135 TORIBIO RODRIGUEZ DE MENDOZA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0607424<br>CÓDIGO DE LOCAL: 324641<br>N° DE RED: 12<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.96855<br>LONGITUD: -76.9985]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0607424</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324641.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>12.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.96855</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.9985</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.9985,-11.96855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0136 SANTA ROSA MILAGROSA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0607432<br>CÓDIGO DE LOCAL: 324655<br>N° DE RED: 12<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.96671<br>LONGITUD: -77.00184]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0607432</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324655.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>12.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.96671</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00184</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00184,-11.96671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0144</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0632299<br>CÓDIGO DE LOCAL: 324716<br>N° DE RED: 12<br>DISTRITO: SAN JUAN DE LURIGANCHO<br>LATITUD: -11.9642<br>LONGITUD: -76.99807]]></description>
+        <styleUrl>#icon-1899-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0632299</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>324716.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>12.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>SAN JUAN DE LURIGANCHO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-11.9642</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99807</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99807,-11.9642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0085 JOSE DE LA TORRE UGARTE</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0335117<br>CÓDIGO DE LOCAL: 304860<br>N° DE RED: 13<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.03787<br>LONGITUD: -76.99053]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0335117</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304860.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>13.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.03787</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99053</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99053,-12.03787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1047 JUANA INFANTES VERA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0338525<br>CÓDIGO DE LOCAL: 304983<br>N° DE RED: 13<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.03328<br>LONGITUD: -76.98871]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0338525</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304983.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>13.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.03328</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.98871</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.98871,-12.03328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0098 PERU JAPON</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0478404<br>CÓDIGO DE LOCAL: 304884<br>N° DE RED: 13<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.02855<br>LONGITUD: -76.997]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0478404</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304884.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>13.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.02855</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.997</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.997,-12.02855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>112 HEROES DE LA BREÑA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0510701<br>CÓDIGO DE LOCAL: 304898<br>N° DE RED: 13<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.03069<br>LONGITUD: -76.99713]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0510701</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304898.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>13.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.03069</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99713</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99713,-12.03069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>127 SAN JOSE</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0584946<br>CÓDIGO DE LOCAL: 304921<br>N° DE RED: 13<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.03325<br>LONGITUD: -77.00318]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0584946</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304921.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>13.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.03325</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00318</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00318,-12.03325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>134 RAMIRO PRIALE</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0762757<br>CÓDIGO DE LOCAL: 304935<br>N° DE RED: 13<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.03166<br>LONGITUD: -77.00763]]></description>
+        <styleUrl>#icon-1899-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0762757</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304935.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>13.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.03166</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00763</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00763,-12.03166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>0049 ANTONIA MORENO DE CACERES</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0335042<br>CÓDIGO DE LOCAL: 304799<br>N° DE RED: 14<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.05187<br>LONGITUD: -77.00178]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0335042</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304799.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>14.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.05187</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00178</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00178,-12.05187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1025 MARIA PARADO DE BELLIDO</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0338087<br>CÓDIGO DE LOCAL: 304940<br>N° DE RED: 14<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.05019<br>LONGITUD: -77.00619]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0338087</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304940.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>14.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.05019</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00619</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00619,-12.05019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1044 MARIA REICHE NEWMANN</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0338467<br>CÓDIGO DE LOCAL: 304959<br>N° DE RED: 14<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.04472<br>LONGITUD: -77.00309]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0338467</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304959.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>14.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.04472</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00309</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00309,-12.04472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1168 GRAN MARISCAL RAMON CASTILLA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0339432<br>CÓDIGO DE LOCAL: 304997<br>N° DE RED: 14<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.04543<br>LONGITUD: -76.99866]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0339432</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304997.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>14.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.04543</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99866</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99866,-12.04543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GLORIOSOS HUSARES DE JUNIN</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0339572<br>CÓDIGO DE LOCAL: 305039<br>N° DE RED: 14<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.05135<br>LONGITUD: -76.99814]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0339572</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>305039.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>14.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.05135</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99814</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99814,-12.05135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LA PRADERA II</name>
+        <description><![CDATA[CÓDIGO MODULAR: 1063023<br>CÓDIGO DE LOCAL: 305119<br>N° DE RED: 14<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.03029<br>LONGITUD: -76.96282]]></description>
+        <styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>1063023</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>305119.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>14.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.03029</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.96282</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.96282,-12.03029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>114 VIRGEN DE CHAPI</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0510503<br>CÓDIGO DE LOCAL: 304902<br>N° DE RED: 15<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.06213<br>LONGITUD: -76.98832]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0510503</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304902.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>15.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.06213</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.98832</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.98832,-12.06213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>046 LOS LIBERTADORES DE AYACUCHO</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0335018<br>CÓDIGO DE LOCAL: 304761<br>N° DE RED: 15<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.05639<br>LONGITUD: -76.99427]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0335018</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304761.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>15.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.05639</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.99427</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.99427,-12.05639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>048 SAN JUAN BOSCO</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0335034<br>CÓDIGO DE LOCAL: 304780<br>N° DE RED: 15<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.05957<br>LONGITUD: -77.00421]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0335034</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304780.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>15.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.05957</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00421</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00421,-12.05957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1046 JULIO RAMON RIBEYRO</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0338517<br>CÓDIGO DE LOCAL: 304978<br>N° DE RED: 15<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.05064<br>LONGITUD: -77.00895]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0338517</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>304978.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>15.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.05064</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00895</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00895,-12.05064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1169 ALMIRANTE MIGUEL GRAU SEMINARIO</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0339440<br>CÓDIGO DE LOCAL: 305001<br>N° DE RED: 15<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.05145<br>LONGITUD: -77.00453]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0339440</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>305001.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>15.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.05145</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00453</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00453,-12.05145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1170</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0339465<br>CÓDIGO DE LOCAL: 305015<br>N° DE RED: 15<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.05479<br>LONGITUD: -77.00436]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0339465</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>305015.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>15.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.05479</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00436</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00436,-12.05479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1177 HEROES DEL CENEPA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0339606<br>CÓDIGO DE LOCAL: 305044<br>N° DE RED: 15<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.05965<br>LONGITUD: -77.0024]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0339606</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>305044.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>15.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.05965</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.0024</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.0024,-12.05965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1186 SANTA ROSA DE LIMA</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0339796<br>CÓDIGO DE LOCAL: 305063<br>N° DE RED: 15<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.0597<br>LONGITUD: -76.9969]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0339796</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>305063.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>15.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.0597</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-76.9969</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.9969,-12.0597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1187 SAN CAYETANO</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0339804<br>CÓDIGO DE LOCAL: 305077<br>N° DE RED: 15<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.05666<br>LONGITUD: -77.00763]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0339804</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>305077.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>15.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.05666</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00763</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00763,-12.05666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GRAN MARISCAL ANDRES AVELINO CACERES DORREGARAY</name>
+        <description><![CDATA[CÓDIGO MODULAR: 0835033<br>CÓDIGO DE LOCAL: 305096<br>N° DE RED: 15<br>DISTRITO: EL AGUSTINO<br>LATITUD: -12.05809<br>LONGITUD: -77.00658]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="CÓDIGO MODULAR">
+            <value>0835033</value>
+          </Data>
+          <Data name="CÓDIGO DE LOCAL">
+            <value>305096.0</value>
+          </Data>
+          <Data name="N° DE RED">
+            <value>15.0</value>
+          </Data>
+          <Data name="DISTRITO">
+            <value>EL AGUSTINO</value>
+          </Data>
+          <Data name="LATITUD">
+            <value>-12.05809</value>
+          </Data>
+          <Data name="LONGITUD">
+            <value>-77.00658</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.00658,-12.05809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>REDES</name>
+      <Placemark>
+        <name>RED 01</name>
+        <styleUrl>#poly-FBC02D-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.0106559,-12.030833,0
+                -77.0101181,-12.0304619,0
+                -77.0096346,-12.0302015,0
+                -77.0093902,-12.0300897,0
+                -77.0091109,-12.029991,0
+                -77.0085666,-12.0298318,0
+                -77.0078077,-12.0297251,0
+                -77.0062738,-12.0295444,0
+                -77.0058689,-12.0294924,0
+                -77.0054641,-12.0294194,0
+                -77.0050444,-12.0293134,0
+                -77.0046462,-12.0291759,0
+                -77.003839,-12.028859,0
+                -77.0017737,-12.0281035,0
+                -77.0013238,-12.0279599,0
+                -77.0008014,-12.0278136,0
+                -77.000322,-12.0276883,0
+                -76.999864,-12.0275578,0
+                -76.99826,-12.0271906,0
+                -76.9967151,-12.0268653,0
+                -76.9961062,-12.0267683,0
+                -76.9935983,-12.0266659,0
+                -76.991973,-12.026603,0
+                -76.9909779,-12.0265636,0
+                -76.9904589,-12.0265374,0
+                -76.9898996,-12.0265138,0
+                -76.9890373,-12.0264875,0
+                -76.9882501,-12.0264245,0
+                -76.984511,-12.025774,0
+                -76.9836098,-12.0256008,0
+                -76.9838405,-12.0245252,0
+                -76.9836527,-12.0232607,0
+                -76.9836178,-12.0229407,0
+                -76.9839357,-12.0228961,0
+                -76.9838988,-12.0227636,0
+                -76.9839877,-12.0225557,0
+                -76.9836795,-12.0222901,0
+                -76.9804072,-12.0179983,0
+                -76.9762015,-12.0137378,0
+                -76.9762123,-12.0111458,0
+                -76.974544,-12.0092726,0
+                -76.9728971,-12.0074414,0
+                -76.9731868,-12.0056784,0
+                -76.9752574,-12.0055524,0
+                -76.9851065,-12.0075883,0
+                -76.9887757,-12.0147452,0
+                -76.9911642,-12.0125415,0
+                -76.9924423,-12.0121165,0
+                -76.9924825,-12.013381,0
+                -76.9927202,-12.0134059,0
+                -76.9929687,-12.0135568,0
+                -76.9930615,-12.0137706,0
+                -76.9931826,-12.0139896,0
+                -76.9931558,-12.0143569,0
+                -76.9931296,-12.0156411,0
+                -76.9931474,-12.0163067,0
+                -76.9932027,-12.0168859,0
+                -76.9933884,-12.0167717,0
+                -76.9936385,-12.0167022,0
+                -76.9944167,-12.0168429,0
+                -76.9952164,-12.0169469,0
+                -76.9963677,-12.0168767,0
+                -76.9973508,-12.0168098,0
+                -76.9978618,-12.0167849,0
+                -76.9983459,-12.0167967,0
+                -76.9990989,-12.0169987,0
+                -76.9992729,-12.0171023,0
+                -76.9998573,-12.0173082,0
+                -77.0003864,-12.0175024,0
+                -77.0009208,-12.0176834,0
+                -77.001936,-12.0180631,0
+                -77.002117,-12.018019,0
+                -77.0022686,-12.0180156,0
+                -77.0024349,-12.0179693,0
+                -77.0024925,-12.0180533,0
+                -77.0027396,-12.0183681,0
+                -77.002917,-12.0186488,0
+                -77.003084,-12.0189007,0
+                -77.0032412,-12.019083,0
+                -77.0034172,-12.0192864,0
+                -77.0038739,-12.0196352,0
+                -77.0041015,-12.0198045,0
+                -77.0043345,-12.0199947,0
+                -77.0047362,-12.0203751,0
+                -77.0054966,-12.0211569,0
+                -77.0061843,-12.0218498,0
+                -77.0068612,-12.0225741,0
+                -77.0082204,-12.0240124,0
+                -77.0095474,-12.0254008,0
+                -77.0102404,-12.0261973,0
+                -77.0103885,-12.0264565,0
+                -77.0106277,-12.0270253,0
+                -77.0107531,-12.0273238,0
+                -77.0108758,-12.0276144,0
+                -77.0111159,-12.0281379,0
+                -77.0113559,-12.0286536,0
+                -77.011537,-12.029164,0
+                -77.0116376,-12.029485,0
+                -77.0117489,-12.0297903,0
+                -77.0120386,-12.0309472,0
+                -77.0120386,-12.0313983,0
+                -77.0119957,-12.031902,0
+                -77.0117462,-12.0320646,0
+                -77.0111883,-12.0313825,0
+                -77.0110274,-12.0312147,0
+                -77.0106559,-12.030833,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 02</name>
+        <styleUrl>#poly-0F9D58-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -76.9836098,-12.0256008,0
+                -76.9810614,-12.025344,0
+                -76.9797794,-12.0253399,0
+                -76.9787064,-12.0254437,0
+                -76.9769442,-12.0258608,0
+                -76.9749627,-12.0258008,0
+                -76.9725025,-12.0258215,0
+                -76.9700966,-12.0261468,0
+                -76.9692677,-12.0264603,0
+                -76.9686702,-12.0262781,0
+                -76.9685314,-12.0262379,0
+                -76.9681492,-12.0261051,0
+                -76.9670361,-12.0257001,0
+                -76.9648286,-12.024898,0
+                -76.9634906,-12.0244216,0
+                -76.959014,-12.0227859,0
+                -76.9547438,-12.0213037,0
+                -76.9525767,-12.0199736,0
+                -76.9521207,-12.018982,0
+                -76.95189,-12.0179169,0
+                -76.9516325,-12.0170564,0
+                -76.9513241,-12.0165108,0
+                -76.9511994,-12.0161618,0
+                -76.9511685,-12.0157841,0
+                -76.9511598,-12.0152784,0
+                -76.9512477,-12.0147202,0
+                -76.9512792,-12.0142355,0
+                -76.951418,-12.0137614,0
+                -76.9514663,-12.0129848,0
+                -76.9516647,-12.0121243,0
+                -76.9514341,-12.0117229,0
+                -76.9512248,-12.011311,0
+                -76.9511792,-12.0110487,0
+                -76.9513589,-12.0107968,0
+                -76.9515574,-12.0106079,0
+                -76.9519169,-12.0103666,0
+                -76.9517895,-12.0099298,0
+                -76.951469,-12.0096084,0
+                -76.9511444,-12.0090915,0
+                -76.9508225,-12.0090037,0
+                -76.9507018,-12.0087105,0
+                -76.9509137,-12.0082704,0
+                -76.9516379,-12.0073443,0
+                -76.9532472,-12.0064628,0
+                -76.9549799,-12.0041069,0
+                -76.9559079,-12.0019215,0
+                -76.957646,-12.001179,0
+                -76.9633055,-12.0028895,0
+                -76.9683695,-12.0054081,0
+                -76.9720924,-12.0076644,0
+                -76.9728971,-12.0074414,0
+                -76.9762123,-12.0111458,0
+                -76.9762015,-12.0137378,0
+                -76.9804072,-12.0179983,0
+                -76.9831833,-12.0216487,0
+                -76.9836795,-12.0222901,0
+                -76.9839877,-12.0225557,0
+                -76.9838988,-12.0227636,0
+                -76.9839357,-12.0228961,0
+                -76.9836178,-12.0229407,0
+                -76.9838405,-12.0245252,0
+                -76.9836098,-12.0256008,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 03</name>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.0126689,-12.0320358,0
+                -77.0119957,-12.031902,0
+                -77.0120386,-12.0313983,0
+                -77.0120386,-12.0309472,0
+                -77.0117502,-12.0297798,0
+                -77.0116409,-12.0294938,0
+                -77.0115601,-12.0292354,0
+                -77.011537,-12.029164,0
+                -77.0114725,-12.0289823,0
+                -77.0113559,-12.0286536,0
+                -77.011079,-12.0280608,0
+                -77.0109355,-12.0277447,0
+                -77.0108721,-12.0276064,0
+                -77.0108127,-12.0274608,0
+                -77.0103885,-12.0264565,0
+                -77.0102119,-12.0261622,0
+                -77.0097694,-12.0256506,0
+                -77.0095432,-12.0253955,0
+                -77.0093055,-12.025147,0
+                -77.0083561,-12.0241527,0
+                -77.0064756,-12.0221583,0
+                -77.0043345,-12.0199947,0
+                -77.0034172,-12.0192864,0
+                -77.003084,-12.0189007,0
+                -77.0024349,-12.0179693,0
+                -77.002107,-12.0175561,0
+                -77.002025,-12.0174082,0
+                -77.0017495,-12.0166471,0
+                -77.0016376,-12.0157089,0
+                -77.0018156,-12.0132319,0
+                -77.0019507,-12.0121741,0
+                -77.0020617,-12.0117939,0
+                -77.0057863,-12.0059053,0
+                -77.0068431,-12.0042558,0
+                -77.0073514,-12.0034211,0
+                -77.0075182,-12.0031314,0
+                -77.0078302,-12.0025747,0
+                -77.0080729,-12.002029,0
+                -77.0082499,-12.0015003,0
+                -77.0086221,-12.0016203,0
+                -77.0096913,-12.0018909,0
+                -77.010244,-12.0020459,0
+                -77.0104633,-12.0021017,0
+                -77.0107122,-12.0021752,0
+                -77.0112067,-12.002363,0
+                -77.0116986,-12.0025901,0
+                -77.0127171,-12.003026,0
+                -77.0123658,-12.0038944,0
+                -77.0141896,-12.0044583,0
+                -77.0142889,-12.0045213,0
+                -77.0144793,-12.00444,0
+                -77.0147663,-12.0043705,0
+                -77.0150265,-12.0042327,0
+                -77.0152532,-12.0040425,0
+                -77.0154745,-12.0038156,0
+                -77.0157167,-12.0041214,0
+                -77.0156049,-12.0042331,0
+                -77.0161403,-12.0049601,0
+                -77.0169859,-12.0059105,0
+                -77.0185375,-12.008845,0
+                -77.0200181,-12.0120561,0
+                -77.017014,-12.0149944,0
+                -77.0192027,-12.0191709,0
+                -77.0169174,-12.02096,0
+                -77.0164668,-12.021511,0
+                -77.0154905,-12.023893,0
+                -77.015866,-12.0242865,0
+                -77.016719,-12.0237146,0
+                -77.0184678,-12.0238143,0
+                -77.0191276,-12.0249686,0
+                -77.0202327,-12.0263379,0
+                -77.0201254,-12.0274083,0
+                -77.0195889,-12.0281218,0
+                -77.0180869,-12.029318,0
+                -77.0184624,-12.0300631,0
+                -77.0180332,-12.0315111,0
+                -77.0169711,-12.0314587,0
+                -77.0161879,-12.0319413,0
+                -77.0152867,-12.0314587,0
+                -77.014761,-12.0312593,0
+                -77.0138705,-12.0317,0
+                -77.0133126,-12.0317839,0
+                -77.0126689,-12.0320358,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 04</name>
+        <styleUrl>#poly-AFB42B-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.0082646,-12.001457,0
+                -77.0081131,-12.001924,0
+                -77.0079187,-12.0023937,0
+                -77.0075182,-12.0031314,0
+                -77.0072331,-12.0036173,0
+                -77.0066199,-12.0046099,0
+                -77.0053659,-12.0065674,0
+                -77.0041361,-12.0085203,0
+                -77.0028976,-12.010461,0
+                -77.0020617,-12.0117939,0
+                -77.0019447,-12.0121981,0
+                -77.0018743,-12.0127834,0
+                -77.0017657,-12.0139909,0
+                -77.0016731,-12.0151432,0
+                -77.0016376,-12.0157089,0
+                -77.0016879,-12.0162641,0
+                -77.001743,-12.0166232,0
+                -77.0018894,-12.01704,0
+                -77.002025,-12.0174082,0
+                -77.002107,-12.0175561,0
+                -77.0024349,-12.0179693,0
+                -77.0022686,-12.0180156,0
+                -77.002117,-12.018019,0
+                -77.001936,-12.0180631,0
+                -77.0009664,-12.0177004,0
+                -77.0002613,-12.0174571,0
+                -76.9992729,-12.0171023,0
+                -76.9990989,-12.0169987,0
+                -76.9983459,-12.0167967,0
+                -76.9978336,-12.0167784,0
+                -76.9964656,-12.0168702,0
+                -76.9952164,-12.0169469,0
+                -76.9944167,-12.0168429,0
+                -76.9936385,-12.0167022,0
+                -76.9933884,-12.0167717,0
+                -76.9932027,-12.0168859,0
+                -76.9931705,-12.0165396,0
+                -76.99314,-12.0160366,0
+                -76.9931316,-12.015527,0
+                -76.9931467,-12.0147596,0
+                -76.9931558,-12.0143569,0
+                -76.9931826,-12.0139896,0
+                -76.9930639,-12.0137735,0
+                -76.9929687,-12.0135568,0
+                -76.9927202,-12.0134059,0
+                -76.9924825,-12.013381,0
+                -76.9924423,-12.0121165,0
+                -76.9911642,-12.0125415,0
+                -76.9887757,-12.0147452,0
+                -76.9851065,-12.0075883,0
+                -76.9833255,-12.0048598,0
+                -76.9795346,-12.001049,0
+                -76.9783688,-11.9988288,0
+                -76.9765485,-11.9979728,0
+                -76.9770439,-11.9958306,0
+                -76.9790843,-11.994528,0
+                -76.9879537,-11.9973773,0
+                -76.9901572,-11.9981644,0
+                -76.9930807,-11.9995235,0
+                -76.9930995,-11.9984688,0
+                -76.9916145,-11.9973097,0
+                -76.9905802,-11.9957308,0
+                -76.991698,-11.9936329,0
+                -76.994977,-11.991259,0
+                -76.9982815,-11.9886983,0
+                -76.9994402,-11.9868512,0
+                -77.0010281,-11.9869351,0
+                -77.0021868,-11.9860955,0
+                -77.0066929,-11.9848781,0
+                -77.0072937,-11.9859276,0
+                -77.0106411,-11.9894539,0
+                -77.011199,-11.9917627,0
+                -77.0082646,-12.001457,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 05</name>
+        <styleUrl>#poly-F48FB1-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.0047402,-11.9795256,0
+                -77.0066929,-11.9848781,0
+                -77.0021868,-11.9860955,0
+                -77.0010281,-11.9869351,0
+                -76.9994402,-11.9868512,0
+                -76.9982815,-11.9886983,0
+                -76.9954222,-11.9909153,0
+                -76.991698,-11.9936329,0
+                -76.9892565,-11.9927667,0
+                -76.9891611,-11.9921251,0
+                -76.9883576,-11.9915885,0
+                -76.9868621,-11.9909889,0
+                -76.9860554,-11.9918015,0
+                -76.9843903,-11.9914912,0
+                -76.9839491,-11.9888406,0
+                -76.9818557,-11.988016,0
+                -76.9732941,-11.9895693,0
+                -76.9711054,-11.9885198,0
+                -76.9701813,-11.9862017,0
+                -76.9716069,-11.984251,0
+                -76.9723123,-11.9819867,0
+                -76.9715774,-11.9807745,0
+                -76.9695926,-11.9804912,0
+                -76.9699631,-11.9793504,0
+                -76.970913,-11.9786084,0
+                -76.9722977,-11.9781741,0
+                -76.9740585,-11.9775571,0
+                -76.97522,-11.9774148,0
+                -76.9762982,-11.9762275,0
+                -76.9779826,-11.9751544,0
+                -76.9812227,-11.9741835,0
+                -76.985364,-11.972234,0
+                -76.9878959,-11.9708827,0
+                -76.9885987,-11.9717644,0
+                -76.9893497,-11.9712029,0
+                -76.9895053,-11.9713813,0
+                -76.9897065,-11.9717224,0
+                -76.989972,-11.9720529,0
+                -76.9901866,-11.9723672,0
+                -76.9905192,-11.9726499,0
+                -76.991297,-11.9729215,0
+                -76.9918066,-11.973134,0
+                -76.9920641,-11.9720897,0
+                -76.9924235,-11.9711136,0
+                -76.9930163,-11.9701795,0
+                -76.993609,-11.9693609,0
+                -76.994065,-11.9687574,0
+                -76.9945616,-11.969418,0
+                -76.9950742,-11.9701205,0
+                -76.995619,-11.9708598,0
+                -76.9958593,-11.9712084,0
+                -76.9961478,-11.9715728,0
+                -76.9964415,-11.9718903,0
+                -76.9968794,-11.9723193,0
+                -76.9970798,-11.9724885,0
+                -76.9992706,-11.9740361,0
+                -77.0014668,-11.9756309,0
+                -77.002796,-11.9765377,0
+                -77.003376,-11.9771058,0
+                -77.0040707,-11.9780011,0
+                -77.0042322,-11.9783178,0
+                -77.004448,-11.978647,0
+                -77.0046411,-11.9789603,0
+                -77.0049145,-11.9794469,0
+                -77.0047402,-11.9795256,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 06</name>
+        <styleUrl>#poly-F9A825-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -76.9854659,-11.956186,0
+                -76.985321,-11.9564982,0
+                -76.9926703,-11.9668524,0
+                -76.9933489,-11.9678259,0
+                -76.994065,-11.9687574,0
+                -76.9931879,-11.9699119,0
+                -76.9924235,-11.9711136,0
+                -76.9920453,-11.9721395,0
+                -76.9918066,-11.973134,0
+                -76.9911817,-11.9728683,0
+                -76.9905192,-11.9726499,0
+                -76.9901759,-11.9723462,0
+                -76.9899573,-11.972029,0
+                -76.9897065,-11.9717224,0
+                -76.9895053,-11.9713813,0
+                -76.9893497,-11.9712029,0
+                -76.9885987,-11.9717644,0
+                -76.9878959,-11.9708827,0
+                -76.9852888,-11.9722681,0
+                -76.9812709,-11.9741678,0
+                -76.9779826,-11.9751544,0
+                -76.9747317,-11.9729766,0
+                -76.9719208,-11.9719271,0
+                -76.9715291,-11.9695866,0
+                -76.9705072,-11.9696758,0
+                -76.969374,-11.9714311,0
+                -76.9653869,-11.9691352,0
+                -76.9658375,-11.9628588,0
+                -76.9716096,-11.9592902,0
+                -76.9780469,-11.9580097,0
+                -76.9808793,-11.9561414,0
+                -76.9820809,-11.9553647,0
+                -76.9823813,-11.9547349,0
+                -76.9854659,-11.956186,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 07</name>
+        <styleUrl>#poly-558B2F-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -76.9873381,-11.9509562,0
+                -76.9875956,-11.9518799,0
+                -76.9854283,-11.9561624,0
+                -76.9823813,-11.9547349,0
+                -76.9820809,-11.9553647,0
+                -76.9780469,-11.9580097,0
+                -76.9775534,-11.9580516,0
+                -76.9716096,-11.9592902,0
+                -76.9711804,-11.9460859,0
+                -76.966846,-11.9450363,0
+                -76.9641423,-11.9431049,0
+                -76.9614601,-11.9386333,0
+                -76.9642496,-11.9360511,0
+                -76.9624901,-11.9336158,0
+                -76.9670391,-11.9304247,0
+                -76.9700431,-11.9345841,0
+                -76.9730043,-11.9387383,0
+                -76.9742489,-11.9380665,0
+                -76.976223,-11.9384864,0
+                -76.9791842,-11.939662,0
+                -76.9873381,-11.9509562,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 08</name>
+        <styleUrl>#poly-757575-1601-51-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -76.9670391,-11.9304247,0
+                -76.9690132,-11.9292071,0
+                -76.9684553,-11.9283673,0
+                -76.9710732,-11.9270866,0
+                -76.9740343,-11.9310965,0
+                -76.976459,-11.9291021,0
+                -76.9800425,-11.9287662,0
+                -76.9809866,-11.9305297,0
+                -76.9818556,-11.9337523,0
+                -76.9833148,-11.934718,0
+                -76.9864583,-11.9301203,0
+                -76.9897735,-11.9274855,0
+                -76.9906533,-11.9288921,0
+                -76.9922519,-11.9289656,0
+                -76.993947,-11.9305717,0
+                -76.9941616,-11.9313904,0
+                -76.9903529,-11.9354318,0
+                -76.9942474,-11.9376676,0
+                -76.997391,-11.9375836,0
+                -77.0000839,-11.9373317,0
+                -77.0027554,-11.9374997,0
+                -77.0070148,-11.9347075,0
+                -77.0122397,-11.9355263,0
+                -77.0173359,-11.9373947,0
+                -77.017529,-11.9378775,0
+                -77.0163059,-11.9394311,0
+                -77.0130658,-11.9399979,0
+                -77.0118856,-11.9412155,0
+                -77.0103192,-11.9418663,0
+                -77.0096326,-11.9417613,0
+                -76.9940758,-11.94596,0
+                -76.990715,-11.9484516,0
+                -76.9873381,-11.9509562,0
+                -76.9791842,-11.939662,0
+                -76.976223,-11.9384864,0
+                -76.9742489,-11.9380665,0
+                -76.9730043,-11.9386963,0
+                -76.9670391,-11.9304247,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 09</name>
+        <styleUrl>#poly-E65100-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.0172286,-11.9716751,0
+                -77.0104265,-11.9754955,0
+                -77.0107913,-11.9761252,0
+                -77.009713,-11.9768625,0
+                -77.008404,-11.9747082,0
+                -77.0076536,-11.9734819,0
+                -77.0068389,-11.9722818,0
+                -77.0063424,-11.9715079,0
+                -77.005768,-11.9705819,0
+                -77.005478,-11.9700494,0
+                -77.0049039,-11.9692137,0
+                -77.0042868,-11.9684201,0
+                -77.0002556,-11.9619561,0
+                -76.9979811,-11.9566452,0
+                -76.9998693,-11.9519849,0
+                -77.0032597,-11.9478493,0
+                -77.0096326,-11.9417613,0
+                -77.0103192,-11.9418663,0
+                -77.0120573,-11.9483532,0
+                -77.0117408,-11.9559944,0
+                -77.0139429,-11.9562358,0
+                -77.015158,-11.9613264,0
+                -77.0171374,-11.9618197,0
+                -77.0181084,-11.9632996,0
+                -77.0191303,-11.971473,0
+                -77.0172286,-11.9716751,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 10</name>
+        <styleUrl>#poly-006064-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.0096326,-11.9417613,0
+                -77.0032597,-11.9478493,0
+                -76.9998693,-11.9519849,0
+                -76.9979811,-11.9566452,0
+                -77.0002663,-11.961985,0
+                -76.9983231,-11.9632524,0
+                -76.9968727,-11.9641813,0
+                -76.9954142,-11.9651941,0
+                -76.9953257,-11.9650839,0
+                -76.9926703,-11.9668524,0
+                -76.985321,-11.9564982,0
+                -76.9875956,-11.9518799,0
+                -76.9873381,-11.9509562,0
+                -76.9940758,-11.94596,0
+                -77.0096326,-11.9417613,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 11</name>
+        <styleUrl>#poly-0097A7-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.0066929,-11.9848781,0
+                -77.0047402,-11.9795256,0
+                -77.0071435,-11.9784551,0
+                -77.0098257,-11.9767969,0
+                -77.0107913,-11.9761252,0
+                -77.0104265,-11.9754955,0
+                -77.0129585,-11.9740681,0
+                -77.0172286,-11.9716751,0
+                -77.0228398,-11.9711057,0
+                -77.0242774,-11.9726669,0
+                -77.0246959,-11.9757788,0
+                -77.0256807,-11.9771732,0
+                -77.0268157,-11.9796907,0
+                -77.0260454,-11.9804591,0
+                -77.0250819,-11.9805978,0
+                -77.0243115,-11.9812665,0
+                -77.0244209,-11.9815574,0
+                -77.0253479,-11.9817981,0
+                -77.0253736,-11.9822697,0
+                -77.0216309,-11.9828308,0
+                -77.02233,-11.9842788,0
+                -77.0230505,-11.9840791,0
+                -77.0234831,-11.984876,0
+                -77.0232166,-11.9854214,0
+                -77.023508,-11.985694,0
+                -77.0251954,-11.9856284,0
+                -77.0268108,-11.9856965,0
+                -77.0275095,-11.9881733,0
+                -77.0242077,-11.9908599,0
+                -77.0249803,-11.9947063,0
+                -77.0244009,-11.9963803,0
+                -77.0223275,-11.9964171,0
+                -77.021842,-11.9974193,0
+                -77.0226306,-12.002071,0
+                -77.0219386,-12.0056627,0
+                -77.0223013,-12.0071118,0
+                -77.0211728,-12.0079366,0
+                -77.019774,-12.0071567,0
+                -77.0190403,-12.0068344,0
+                -77.017822,-12.0065756,0
+                -77.0175662,-12.0064825,0
+                -77.0173126,-12.0063305,0
+                -77.0164346,-12.0052897,0
+                -77.0156049,-12.0042331,0
+                -77.0157167,-12.0041214,0
+                -77.0154745,-12.0038156,0
+                -77.0152532,-12.0040425,0
+                -77.0150265,-12.0042327,0
+                -77.0147663,-12.0043705,0
+                -77.0144793,-12.00444,0
+                -77.0142889,-12.0045213,0
+                -77.0141896,-12.0044583,0
+                -77.0123658,-12.0038944,0
+                -77.0127171,-12.003026,0
+                -77.0115424,-12.0025196,0
+                -77.0112067,-12.002363,0
+                -77.0106358,-12.0021444,0
+                -77.0096343,-12.0018666,0
+                -77.0086221,-12.0016203,0
+                -77.0082499,-12.0015003,0
+                -77.011199,-11.9917627,0
+                -77.0106411,-11.9894539,0
+                -77.0073795,-11.9860746,0
+                -77.0066929,-11.9848781,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 12</name>
+        <styleUrl>#poly-817717-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.009713,-11.9768625,0
+                -77.0071435,-11.9784551,0
+                -77.0049145,-11.9794469,0
+                -77.0046594,-11.9789766,0
+                -77.0043453,-11.9784905,0
+                -77.0041942,-11.9782383,0
+                -77.0040432,-11.9779572,0
+                -77.0037465,-11.9775971,0
+                -77.003376,-11.9771058,0
+                -77.0031235,-11.9768454,0
+                -77.002796,-11.9765377,0
+                -77.0023987,-11.9762563,0
+                -77.001598,-11.9757283,0
+                -77.0012447,-11.975459,0
+                -77.0008215,-11.9751688,0
+                -77.0004795,-11.9749031,0
+                -76.9994026,-11.9741179,0
+                -76.9978899,-11.9730566,0
+                -76.9971174,-11.9725181,0
+                -76.996825,-11.9722619,0
+                -76.9965005,-11.9719323,0
+                -76.9961478,-11.9715728,0
+                -76.9958433,-11.9711766,0
+                -76.995272,-11.970379,0
+                -76.994065,-11.9687574,0
+                -76.9933489,-11.9678259,0
+                -76.9926703,-11.9668524,0
+                -76.9940074,-11.9659813,0
+                -76.9953257,-11.9650839,0
+                -76.9954142,-11.9651941,0
+                -76.9971657,-11.9639923,0
+                -76.9987106,-11.963007,0
+                -77.0002663,-11.961985,0
+                -77.0042868,-11.9684201,0
+                -77.0049039,-11.9692137,0
+                -77.005478,-11.9700494,0
+                -77.005768,-11.9705819,0
+                -77.0062034,-11.9712709,0
+                -77.0065742,-11.9718869,0
+                -77.0069664,-11.9724715,0
+                -77.0077026,-11.9735627,0
+                -77.0083906,-11.9746801,0
+                -77.0091457,-11.9759497,0
+                -77.009713,-11.9768625,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 13</name>
+        <styleUrl>#poly-0288D1-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.0046541,-12.0416712,0
+                -76.9976696,-12.0404436,0
+                -76.997219,-12.0399924,0
+                -76.9951913,-12.0403492,0
+                -76.990653,-12.0397616,0
+                -76.988754,-12.039835,0
+                -76.9884536,-12.0396356,0
+                -76.986694,-12.0397091,0
+                -76.9813189,-12.0407374,0
+                -76.9784221,-12.0398875,0
+                -76.9774994,-12.0393733,0
+                -76.9772633,-12.0392316,0
+                -76.9770394,-12.0390834,0
+                -76.976794,-12.0389562,0
+                -76.9761372,-12.0386071,0
+                -76.9754879,-12.0384603,0
+                -76.9740236,-12.0381559,0
+                -76.97228,-12.0365401,0
+                -76.9698605,-12.0353965,0
+                -76.9649521,-12.0316662,0
+                -76.9651103,-12.0291321,0
+                -76.9652524,-12.0284028,0
+                -76.9654268,-12.0276276,0
+                -76.9654456,-12.0268786,0
+                -76.9648286,-12.024898,0
+                -76.9665057,-12.0255086,0
+                -76.967358,-12.0258228,0
+                -76.9685355,-12.0262386,0
+                -76.9692677,-12.0264603,0
+                -76.9700966,-12.0261468,0
+                -76.9725025,-12.0258215,0
+                -76.9749675,-12.0258005,0
+                -76.9769442,-12.0258608,0
+                -76.9787064,-12.0254437,0
+                -76.9798141,-12.0253414,0
+                -76.9810614,-12.025344,0
+                -76.9836098,-12.0256008,0
+                -76.9843487,-12.0257425,0
+                -76.9845331,-12.0257781,0
+                -76.9847182,-12.0258104,0
+                -76.9850876,-12.0258744,0
+                -76.9865735,-12.0261335,0
+                -76.9882501,-12.0264245,0
+                -76.9882961,-12.0264279,0
+                -76.9883467,-12.0264313,0
+                -76.9886201,-12.0264549,0
+                -76.9890373,-12.0264875,0
+                -76.9903804,-12.0265327,0
+                -76.9909194,-12.0265613,0
+                -76.9914598,-12.026584,0
+                -76.9920036,-12.0266041,0
+                -76.993133,-12.0266475,0
+                -76.9934061,-12.0266584,0
+                -76.9936989,-12.0266703,0
+                -76.9942578,-12.0266934,0
+                -76.9950724,-12.0267258,0
+                -76.9961062,-12.0267683,0
+                -76.9967151,-12.0268653,0
+                -76.99736,-12.0270011,0
+                -76.9986131,-12.0272719,0
+                -76.9999763,-12.0275897,0
+                -77.0002099,-12.0276575,0
+                -77.0004448,-12.02772,0
+                -77.0009153,-12.0278451,0
+                -77.0013791,-12.0279771,0
+                -77.0017737,-12.0281035,0
+                -77.0030833,-12.0285825,0
+                -77.003442,-12.0287147,0
+                -77.0037956,-12.0288442,0
+                -77.0040637,-12.0289472,0
+                -77.0044088,-12.0290829,0
+                -77.0050218,-12.0293105,0
+                -77.0052501,-12.0293681,0
+                -77.0054619,-12.0294192,0
+                -77.0055725,-12.0294389,0
+                -77.005887,-12.0294957,0
+                -77.0062483,-12.0295401,0
+                -77.0069684,-12.0296289,0
+                -77.0077678,-12.0297212,0
+                -77.0085666,-12.0298318,0
+                -77.0091065,-12.0299903,0
+                -77.0093902,-12.0300897,0
+                -77.0096346,-12.0302015,0
+                -77.0097135,-12.030246,0
+                -77.0101233,-12.0304646,0
+                -77.0106559,-12.030833,0
+                -77.0109781,-12.0311645,0
+                -77.0112056,-12.0314034,0
+                -77.0113184,-12.0315446,0
+                -77.0087954,-12.0342842,0
+                -77.0057055,-12.0379358,0
+                -77.0046541,-12.0416712,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 14</name>
+        <styleUrl>#poly-AFB42B-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.0032597,-12.0519012,0
+                -77.0037854,-12.0531393,0
+                -77.0034313,-12.0532757,0
+                -77.0036995,-12.0546502,0
+                -77.0040214,-12.0551748,0
+                -77.0032275,-12.0557938,0
+                -77.0031309,-12.0559932,0
+                -77.0018864,-12.0570949,0
+                -77.0018864,-12.0574726,0
+                -77.0012158,-12.0576824,0
+                -77.0005774,-12.0579552,0
+                -76.9987535,-12.056906,0
+                -76.9982654,-12.0561532,0
+                -76.9981098,-12.0552115,0
+                -76.9973537,-12.0551027,0
+                -76.9967908,-12.0552351,0
+                -76.9964803,-12.0550017,0
+                -76.9943976,-12.0543249,0
+                -76.9934508,-12.0544173,0
+                -76.992681,-12.0544928,0
+                -76.9917509,-12.0546647,0
+                -76.9888187,-12.0552062,0
+                -76.9884968,-12.0531707,0
+                -76.9880891,-12.0515654,0
+                -76.9871664,-12.0501489,0
+                -76.9860264,-12.0484137,0
+                -76.9858575,-12.0473081,0
+                -76.984731,-12.0444777,0
+                -76.9821024,-12.0431609,0
+                -76.9768238,-12.0405377,0
+                -76.9762525,-12.040501,0
+                -76.9756865,-12.0404119,0
+                -76.9752714,-12.0403476,0
+                -76.9748778,-12.0402309,0
+                -76.9741121,-12.0398924,0
+                -76.9723016,-12.0386831,0
+                -76.9668245,-12.0345777,0
+                -76.9657945,-12.0336911,0
+                -76.9645286,-12.032731,0
+                -76.9633913,-12.0318495,0
+                -76.9609022,-12.0304854,0
+                -76.9555378,-12.0294361,0
+                -76.9551301,-12.0278149,0
+                -76.9547438,-12.0213037,0
+                -76.9648286,-12.024898,0
+                -76.9654456,-12.0268786,0
+                -76.9654268,-12.0276276,0
+                -76.9652447,-12.0283684,0
+                -76.9651103,-12.0291321,0
+                -76.9649521,-12.0316662,0
+                -76.9698605,-12.0353965,0
+                -76.97228,-12.0365401,0
+                -76.9740236,-12.0381559,0
+                -76.9761372,-12.0386071,0
+                -76.976974,-12.0390477,0
+                -76.9774994,-12.0393733,0
+                -76.9774997,-12.039373,0
+                -76.9784224,-12.0398872,0
+                -76.9813192,-12.0407371,0
+                -76.9834113,-12.0403698,0
+                -76.9866943,-12.0397088,0
+                -76.9884539,-12.0396353,0
+                -76.9887543,-12.0398347,0
+                -76.9906533,-12.0397613,0
+                -76.9951916,-12.0403489,0
+                -76.9957817,-12.0402544,0
+                -76.9972193,-12.0399921,0
+                -76.9976699,-12.0404433,0
+                -77.0008349,-12.0409679,0
+                -77.0046544,-12.0416709,0
+                -77.0047348,-12.0417129,0
+                -77.004295,-12.0429196,0
+                -77.0030451,-12.0468438,0
+                -77.0056843,-12.0488794,0
+                -77.0068293,-12.0498732,0
+                -77.0066805,-12.05,0
+                -77.0065182,-12.0501077,0
+                -77.0061412,-12.0504565,0
+                -77.0057668,-12.0507654,0
+                -77.0054041,-12.0509176,0
+                -77.0046444,-12.0512232,0
+                -77.0043057,-12.0514186,0
+                -77.0032597,-12.0519012,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>RED 15</name>
+        <styleUrl>#poly-F57C00-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.0108718,-12.0438902,0
+                -77.0107591,-12.0446037,0
+                -77.0107698,-12.0452017,0
+                -77.010857,-12.0456798,0
+                -77.0110085,-12.0459795,0
+                -77.0109683,-12.0466418,0
+                -77.0108959,-12.0473462,0
+                -77.0109415,-12.0480505,0
+                -77.0110408,-12.049307,0
+                -77.011146,-12.0498775,0
+                -77.0112782,-12.0504323,0
+                -77.0115692,-12.0515366,0
+                -77.011822,-12.0520763,0
+                -77.0119567,-12.0525425,0
+                -77.0122424,-12.0532415,0
+                -77.0124543,-12.0535169,0
+                -77.0122531,-12.0536979,0
+                -77.0124703,-12.0540206,0
+                -77.0128942,-12.054498,0
+                -77.0133126,-12.0550226,0
+                -77.0105284,-12.0571106,0
+                -77.0091632,-12.058186,0
+                -77.0078784,-12.0592824,0
+                -77.0068619,-12.0600851,0
+                -77.0059151,-12.0608405,0
+                -77.0048717,-12.0616458,0
+                -77.0044573,-12.0619435,0
+                -77.0037317,-12.0622412,0
+                -77.0025408,-12.0627448,0
+                -77.0014693,-12.0631343,0
+                -76.9998828,-12.0633664,0
+                -76.9980195,-12.0635582,0
+                -76.997061,-12.0636384,0
+                -76.9960945,-12.063695,0
+                -76.9946209,-12.0637979,0
+                -76.9934038,-12.0639094,0
+                -76.9928387,-12.0639585,0
+                -76.991996,-12.0640653,0
+                -76.9911305,-12.0641472,0
+                -76.9907237,-12.0641635,0
+                -76.9903086,-12.0641658,0
+                -76.9890929,-12.0640671,0
+                -76.9880033,-12.0640104,0
+                -76.9877644,-12.0639701,0
+                -76.9875362,-12.0639468,0
+                -76.9873964,-12.063954,0
+                -76.9867265,-12.0638399,0
+                -76.9860989,-12.0637317,0
+                -76.9854673,-12.0636143,0
+                -76.9854834,-12.0635356,0
+                -76.9856228,-12.0628405,0
+                -76.9858575,-12.0615487,0
+                -76.9857717,-12.055778,0
+                -76.992681,-12.054498,0
+                -76.9943976,-12.0543301,0
+                -76.9964803,-12.0550017,0
+                -76.9967908,-12.0552351,0
+                -76.9973537,-12.0551027,0
+                -76.9981098,-12.0552115,0
+                -76.9982654,-12.0561532,0
+                -76.9987535,-12.0569112,0
+                -77.0005774,-12.0579604,0
+                -77.0012275,-12.0576778,0
+                -77.0018864,-12.0574778,0
+                -77.0018864,-12.0570949,0
+                -77.0024926,-12.0565545,0
+                -77.0030793,-12.0560377,0
+                -77.0031309,-12.0559932,0
+                -77.0032275,-12.0557938,0
+                -77.0040214,-12.05518,0
+                -77.0036995,-12.0546554,0
+                -77.0034313,-12.0532757,0
+                -77.0037854,-12.0531445,0
+                -77.0032597,-12.0519012,0
+                -77.0039886,-12.0515648,0
+                -77.0043057,-12.0514186,0
+                -77.0046444,-12.0512232,0
+                -77.0056522,-12.0508467,0
+                -77.006838,-12.0498805,0
+                -77.0081949,-12.0488321,0
+                -77.0079213,-12.0483442,0
+                -77.0079696,-12.0481816,0
+                -77.0083451,-12.0476045,0
+                -77.0081929,-12.0473704,0
+                -77.0080863,-12.0472701,0
+                -77.0083773,-12.0467126,0
+                -77.0081306,-12.0460621,0
+                -77.007401,-12.0441105,0
+                -77.0069075,-12.0427884,0
+                -77.0071864,-12.0424893,0
+                -77.0108718,-12.0438902,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
